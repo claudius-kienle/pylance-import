@@ -15,7 +15,7 @@ pip install -e . --config-settings editable_mode=compat
 
 2. Open VS Code and navigate to package-2/package_2/main.py
 
-3. Try to import the function by pressing `ctrl+.`
+3. Try to import the function `transform_data()` by pressing `ctrl+.`
 
 ### Current Behavior
  
